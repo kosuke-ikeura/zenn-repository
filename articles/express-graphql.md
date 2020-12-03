@@ -2,7 +2,7 @@
 title: "shopifyのデータをGraphQLで取り出してみる"
 emoji: "🏠"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["express-graphql", "graphql", "shopify"]
+topics: ["graphql", "shopify"]
 published: true
 ---
 
