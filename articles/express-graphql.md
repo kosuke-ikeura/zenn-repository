@@ -45,8 +45,7 @@ key: Content-Type           value: application/json
 - body の type を GraphQL に変更
 
 最終的にはこうなる。
-!["postmanの画面"](image_graph_final.png)
-_postman の画面_
+
 :::message
 ${pass}には private_app の pass が入ります
 :::
