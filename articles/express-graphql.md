@@ -1,5 +1,5 @@
 ---
-title: "shopifyのデータをGraphQLで取り出してみる"
+title: "shopifyの店舗名をGraphQLで取り出してみる"
 emoji: "🏠"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["graphql", "shopify"]
@@ -45,6 +45,7 @@ key: Content-Type           value: application/json
 - body の type を GraphQL に変更
 
 最終的にはこうなる。
+![](https://storage.googleapis.com/zenn-user-upload/9et3m86u47iw16eixlv2s6tgee9i)
 
 :::message
 ${pass}には private_app の pass が入ります
