@@ -1,1 +1,1 @@
-# zenn-repository
+sample	# zenn-repository
